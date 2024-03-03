@@ -1,2 +1,4 @@
-<h4>1. Rename outlet name</h4>
-37. 8min -> Right click outlet anme -> refactor -> rename
+<h4>1. Rename Outlet Name</h4>
+37. 8 min -> Right click outlet anme -> refactor -> rename
+<h4>1. Add Image Literal</h4> 
+37. 14 min -> #imageLiteral(
