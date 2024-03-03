@@ -4,5 +4,6 @@
 37. 14 min -> #imageLiteral(
 <h4>3. Push to Github shows "Loading</h4>
 Clone the repository and start over again. Pull the code first test 1
-<h4>3. var + 1 </h4> var += 1
-<h4>3. generagte random number </h4> Int.random(in:1 ... 10) <br> It's better to write diceArray.randomElement(), it radomly chooses one element from your array
+<h4>4. var + 1 </h4> var += 1
+<h4>5. generagte random number </h4> Int.random(in:1 ... 10) <br> It's better to write diceArray.randomElement(), it radomly chooses one element from your array
+<h4>6. var is variable let is constant </h4> Can't change let
