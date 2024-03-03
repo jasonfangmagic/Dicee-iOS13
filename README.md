@@ -1,2 +1,2 @@
-Cloned Project\
-37. 8min Rename outlet name. Right click outlet anme -> refactor -> rename\
+<h1>Rename outlet name</h1>
+37. 8min -> Right click outlet anme -> refactor -> rename\
