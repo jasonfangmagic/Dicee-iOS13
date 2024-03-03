@@ -1,5 +1,5 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
-Cloned Project
+# Cloned Project
 # Dicee
 
 ## Our Goal
