@@ -42,7 +42,9 @@
 				<key>leading</key>
 				<string></string>
 				<key>trailing</key>
-				<string></string>
+				<string>&lt;h4&gt;3. Push to Github shows "Loading&lt;/h4&gt;
+Clone the repository and start over again. Pull the code first
+</string>
 			</dict>
 			<key>type</key>
 			<string>bookmark</string>
@@ -85,7 +87,9 @@
 				<key>leading</key>
 				<string></string>
 				<key>trailing</key>
-				<string></string>
+				<string>&lt;h4&gt;3. Push to Github shows "Loading&lt;/h4&gt;
+Clone the repository and start over again. Pull the code first
+</string>
 			</dict>
 			<key>type</key>
 			<string>bookmark</string>
